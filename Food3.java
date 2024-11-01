@@ -1,3 +1,10 @@
+/*
+* Megumi Hu p5 10/23/2024 - wednesday
+*Food3.java
+*
+*This programm is a virtual bake sale. It will print out the amount and cost of the food type.
+*It will also tell you about the ingredient and the method the food is cooked with.
+*/
 public class Food3 {
     protected String str; //initializing str as protected
     protected String foodName; //initializing foodName as protected
