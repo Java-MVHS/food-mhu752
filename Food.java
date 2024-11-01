@@ -1,8 +1,10 @@
-/* Write your heading
- * Megumi.Hu 10/23/2024 - Wednesday
- * Food.java
- *
- */
+/*
+* Megumi Hu p5 10/23/2024 - wednesday
+*Food.java
+*
+*This programm is a virtual bake sale. It will print out the amount and cost of the food type.
+*It will also tell you about the ingredient and the method the food is cooked with.
+*/
 
 import java.util.Scanner;
 public class Food
